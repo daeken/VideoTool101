@@ -23,7 +23,7 @@ Workflow
 5. From the project directory, run `./soundtool.py`
 6. Set gap lengths/trimming for each audio sample and assign transition gaps
 7. Export the audio track
-8. (Optionally) Copy your endscreen to the project directory as `outer.png`
+8. (Optionally) Copy your endscreen to the project directory as `outro.png`
 9. Set transition styles for each slide
 10. From the project directory, run `./buildVideo.py`
 11. Wait a couple hours for the video to encode
